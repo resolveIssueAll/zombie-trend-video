@@ -19,11 +19,11 @@ The sample uses fictional AI characters. Customer faces and movement vary; the s
 3. Choose vertical 9:16 or wide 16:9 and review the checkout price.
 4. Follow progress in **My films** and download the finished MP4 within seven days.
 
-The current original reunion produces an approximately 15-second, 768p video with music. Other scenes marked as story plans are not yet available for purchase.
+The current original reunion produces an approximately 15-second HD (720p or higher) video with music. Other scenes marked as story plans are not yet available for purchase.
 
 ## Pricing
 
-As checked on October 20, 2026: one video costs **$5.99**, three cost **$14.99**, and five cost **$19.99**. There is no subscription. Packs require an account. See the [current pricing and refund details](https://zombietrendvideo.com/pricing) before ordering.
+This is a paid service with single-video and multi-video purchases, without a subscription. See the [current pricing and refund details](https://zombietrendvideo.com/pricing) and the amount shown at checkout before ordering.
 
 ## Guides and feedback
 
