@@ -1,6 +1,6 @@
 # Zombie Trend Video
 
-[Create a zombie reunion video](https://zombietrendvideo.com/) · [Watch examples](https://zombietrendvideo.com/examples) · [Photo guide](docs/photo-checklist.md)
+[AI zombie hug video generator](https://zombietrendvideo.com/ai-zombie-hug?utm_source=github.com&utm_medium=referral&utm_campaign=zombie_hug) · [Watch zombie hug scene examples](https://zombietrendvideo.com/examples?utm_source=github.com&utm_medium=referral&utm_campaign=zombie_hug) · [Photo guide](docs/photo-checklist.md)
 
 Turn two adult portraits into a short AI zombie reunion film with music. The first person stays human; the second becomes the zombie. The story follows recognition, hesitation and an embrace.
 
@@ -15,7 +15,7 @@ The sample uses fictional AI characters. Customer faces and movement vary; the s
 ## Make a film
 
 1. Prepare two separate portraits using the [photo checklist](docs/photo-checklist.md).
-2. [Open the creator](https://zombietrendvideo.com/), assign the survivor and zombie, and choose an available scene.
+2. [Open the zombie hug creator](https://zombietrendvideo.com/ai-zombie-hug), assign the survivor and zombie, and choose an available scene.
 3. Choose vertical 9:16 or wide 16:9 and review the checkout price.
 4. Follow progress in **My films** and download the finished MP4 within seven days.
 
@@ -27,6 +27,7 @@ This is a paid service with single-video and multi-video purchases, without a su
 
 ## Guides and feedback
 
+- [Zombie hug scene: original clip or make your own?](docs/zombie-hug-scene.md)
 - [Photo preparation checklist](docs/photo-checklist.md)
 - [Review a short emotional scene](docs/review-checklist.md)
 - [Full website walkthrough](https://zombietrendvideo.com/how-to-make-a-zombie-trend-video)
